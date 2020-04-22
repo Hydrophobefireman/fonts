@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Aquire";
+  font-display: swap;
+  src: url("/@/aquire/hinted-AquireRegular.woff2") format("woff2"),
+    url("/@/aquire/hinted-AquireRegular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Aquire";
+  font-display: swap;
+  src: url("/@/aquire/hinted-AquireBold.woff2") format("woff2"),
+    url("/@/aquire/hinted-AquireBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Aquire";
+  font-display: swap;
+  src: url("/@/aquire/hinted-AquireLight.woff2") format("woff2"),
+    url("/@/aquire/hinted-AquireLight.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
