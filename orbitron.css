@@ -1,8 +1,8 @@
 @font-face {
   font-family: "Orbitron";
   font-display: swap;
-  src: url("/@/hinted-Orbitron-Bold.woff2") format("woff2"),
-    url("/@/hinted-Orbitron-Bold.woff") format("woff");
+  src: url("/@/orbitron/hinted-Orbitron-Bold.woff2") format("woff2"),
+    url("/@/orbitron/hinted-Orbitron-Bold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
 }
@@ -10,8 +10,8 @@
 @font-face {
   font-family: "Orbitron";
   font-display: swap;
-  src: url("/@/hinted-Orbitron-Regular.woff2") format("woff2"),
-    url("/@/hinted-Orbitron-Regular.woff") format("woff");
+  src: url("/@/orbitron/hinted-Orbitron-Regular.woff2") format("woff2"),
+    url("/@/orbitron/hinted-Orbitron-Regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
@@ -19,8 +19,8 @@
 @font-face {
   font-family: "Orbitron";
   font-display: swap;
-  src: url("/@/hinted-Orbitron-Black.woff2") format("woff2"),
-    url("/@/hinted-Orbitron-Black.woff") format("woff");
+  src: url("/@/orbitron/hinted-Orbitron-Black.woff2") format("woff2"),
+    url("/@/orbitron/hinted-Orbitron-Black.woff") format("woff");
   font-weight: 900;
   font-style: normal;
 }
@@ -28,8 +28,8 @@
 @font-face {
   font-family: "Orbitron";
   font-display: swap;
-  src: url("/@/hinted-Orbitron-Medium.woff2") format("woff2"),
-    url("/@/hinted-Orbitron-Medium.woff") format("woff");
+  src: url("/@/orbitron/hinted-Orbitron-Medium.woff2") format("woff2"),
+    url("/@/orbitron/hinted-Orbitron-Medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
 }
@@ -37,8 +37,8 @@
 @font-face {
   font-family: "Orbitron";
   font-display: swap;
-  src: url("/@/hinted-Orbitron-ExtraBold.woff2") format("woff2"),
-    url("/@/hinted-Orbitron-ExtraBold.woff") format("woff");
+  src: url("/@/orbitron/hinted-Orbitron-ExtraBold.woff2") format("woff2"),
+    url("/@/orbitron/hinted-Orbitron-ExtraBold.woff") format("woff");
   font-weight: 800;
   font-style: normal;
 }
@@ -46,8 +46,8 @@
 @font-face {
   font-family: "Orbitron";
   font-display: swap;
-  src: url("/@/hinted-Orbitron-SemiBold.woff2") format("woff2"),
-    url("/@/hinted-Orbitron-SemiBold.woff") format("woff");
+  src: url("/@/orbitron/hinted-Orbitron-SemiBold.woff2") format("woff2"),
+    url("/@/orbitron/hinted-Orbitron-SemiBold.woff") format("woff");
   font-weight: 600;
   font-style: normal;
 }
