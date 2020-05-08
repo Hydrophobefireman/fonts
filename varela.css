@@ -2,6 +2,7 @@
 @font-face {
   font-family: "Varela Round";
   font-style: normal;
+  font-display: swap;
   font-weight: 400;
   src: local("Varela Round Regular"), local("VarelaRound-Regular"),
     url("/@/varela-round/varela-round-v12-latin-regular.woff2") format("woff2"),
