@@ -1,0 +1,311 @@
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Italic"), local("Ubuntu-Italic"),
+    url("/@/ubuntu/hinted-Ubuntu-Italic.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Light Italic"), local("Ubuntu-LightItalic"),
+    url("/@/ubuntu/hinted-Ubuntu-LightItalic.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Medium"), local("Ubuntu-Medium"),
+    url("/@/ubuntu/hinted-Ubuntu-Medium.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Light"), local("Ubuntu-Light"),
+    url("/@/ubuntu/hinted-Ubuntu-Light.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Bold Italic"), local("Ubuntu-BoldItalic"),
+    url("/@/ubuntu/hinted-Ubuntu-BoldItalic.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Regular"), local("Ubuntu-Regular"),
+    url("/@/ubuntu/hinted-Ubuntu-Regular.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Medium Italic"), local("Ubuntu-MediumItalic"),
+    url("/@/ubuntu/hinted-Ubuntu-MediumItalic.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Bold"), local("Ubuntu-Bold"),
+    url("/@/ubuntu/hinted-Ubuntu-Bold.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: url("/@/ubuntu/hinted-Ubuntu.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: url("/@/ubuntu/hinted-Ubuntu.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: url("/@/ubuntu/hinted-Ubuntu.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: url("/@/ubuntu/hinted-Ubuntu.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: url("/@/ubuntu/hinted-Ubuntu.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: url("/@/ubuntu/hinted-Ubuntu.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: url("/@/ubuntu/hinted-Ubuntu.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: url("/@/ubuntu/hinted-Ubuntu.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Light Italic"), local("Ubuntu-LightItalic"),
+    url("/@/ubuntu/hinted-Ubuntu-LightItalic.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Regular"), local("Ubuntu-Regular"),
+    url("/@/ubuntu/hinted-Ubuntu-Regular.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Bold Italic"), local("Ubuntu-BoldItalic"),
+    url("/@/ubuntu/hinted-Ubuntu-BoldItalic.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Medium"), local("Ubuntu-Medium"),
+    url("/@/ubuntu/hinted-Ubuntu-Medium.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Bold"), local("Ubuntu-Bold"),
+    url("/@/ubuntu/hinted-Ubuntu-Bold.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Medium Italic"), local("Ubuntu-MediumItalic"),
+    url("/@/ubuntu/hinted-Ubuntu-MediumItalic.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Light"), local("Ubuntu-Light"),
+    url("/@/ubuntu/hinted-Ubuntu-Light.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Italic"), local("Ubuntu-Italic"),
+    url("/@/ubuntu/hinted-Ubuntu-Italic.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Bold Italic"), local("Ubuntu-BoldItalic"),
+    url("/@/ubuntu/hinted-Ubuntu-BoldItalic.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Light"), local("Ubuntu-Light"),
+    url("/@/ubuntu/hinted-Ubuntu-Light.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Medium"), local("Ubuntu-Medium"),
+    url("/@/ubuntu/hinted-Ubuntu-Medium.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Medium Italic"), local("Ubuntu-MediumItalic"),
+    url("/@/ubuntu/hinted-Ubuntu-MediumItalic.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Bold"), local("Ubuntu-Bold"),
+    url("/@/ubuntu/hinted-Ubuntu-Bold.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Regular"), local("Ubuntu-Regular"),
+    url("/@/ubuntu/hinted-Ubuntu-Regular.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Italic"), local("Ubuntu-Italic"),
+    url("/@/ubuntu/hinted-Ubuntu-Italic.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  src: local("Ubuntu Light Italic"), local("Ubuntu-LightItalic"),
+    url("/@/ubuntu/hinted-Ubuntu-LightItalic.woff2") format("woff2"),
+    url("/@/ubuntu/hinted-Ubuntu-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
