@@ -1,0 +1,159 @@
+@font-face {
+  font-family: "AUTHENTIC Sans";
+  src: url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-Condensed60.woff2")
+      format("woff2"),
+    url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-Condensed60.woff")
+      format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AUTHENTIC Sans";
+  src: url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-Condensed150.woff2")
+      format("woff2"),
+    url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-Condensed150.woff")
+      format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AUTHENTIC Sans";
+  src: url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-150.woff2") format("woff2"),
+    url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-150.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AUTHENTIC Sans";
+  src: url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-60.woff2") format("woff2"),
+    url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-60.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AUTHENTIC Sans";
+  src: url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-90.woff2") format("woff2"),
+    url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-90.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AUTHENTIC Sans";
+  src: url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-Condensed130.woff2")
+      format("woff2"),
+    url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-Condensed130.woff")
+      format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AUTHENTIC Sans";
+  src: url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-130.woff2") format("woff2"),
+    url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-130.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AUTHENTIC Sans";
+  src: url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-Condensed90.woff2")
+      format("woff2"),
+    url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-Condensed90.woff")
+      format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AUTHENTIC Sans";
+  src: url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-90.woff2") format("woff2"),
+    url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-90.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AUTHENTIC Sans";
+  src: url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-Condensed90.woff2")
+      format("woff2"),
+    url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-Condensed90.woff")
+      format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AUTHENTIC Sans";
+  src: url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-150.woff2") format("woff2"),
+    url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-150.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AUTHENTIC Sans";
+  src: url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-60.woff2") format("woff2"),
+    url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-60.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AUTHENTIC Sans";
+  src: url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-130.woff2") format("woff2"),
+    url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-130.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AUTHENTIC Sans";
+  src: url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-Condensed150.woff2")
+      format("woff2"),
+    url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-Condensed150.woff")
+      format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AUTHENTIC Sans";
+  src: url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-Condensed60.woff2")
+      format("woff2"),
+    url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-Condensed60.woff")
+      format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AUTHENTIC Sans";
+  src: url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-Condensed130.woff2")
+      format("woff2"),
+    url("/@/AUTHENTIC-Sans/hinted-AUTHENTICSans-Condensed130.woff")
+      format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
