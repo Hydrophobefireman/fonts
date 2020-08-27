@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "favorit";
+  src: url("/@/favorit/favorit.woff2") format("woff2"),
+    url("/@/favorit/favorit.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
