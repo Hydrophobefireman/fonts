@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Platinum Sign Over";
+  src: url("/@/platinum-sign/PlatinumSignOver.woff2") format("woff2"),
+    url("/@/platinum-sign/PlatinumSignOver.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Platinum Sign";
+  src: url("/@/platinum-sign/PlatinumSign.woff2") format("woff2"),
+    url("/@/platinum-sign/PlatinumSign.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Platinum Sign Under";
+  src: url("/@/platinum-sign/PlatinumSignUnder.woff2") format("woff2"),
+    url("/@/platinum-sign/PlatinumSignUnder.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
