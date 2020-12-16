@@ -58,3 +58,123 @@
 	url("/@/ubuntu/4iCv6KVjbNBYlgoC1CzjsGyN.woff") format("woff") ;
   unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
+/* cyrillic-ext */
+@font-face {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/@/ubuntu/4iCs6KVjbNBYlgoKcg72j00.woff2") format("woff2"),
+	url("/@/ubuntu/4iCs6KVjbNBYlgoKcg72j00.woff") format("woff") ;
+  unicode-range: U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/@/ubuntu/4iCs6KVjbNBYlgoKew72j00.woff2") format("woff2"),
+	url("/@/ubuntu/4iCs6KVjbNBYlgoKew72j00.woff") format("woff") ;
+  unicode-range: U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/@/ubuntu/4iCs6KVjbNBYlgoKcw72j00.woff2") format("woff2"),
+	url("/@/ubuntu/4iCs6KVjbNBYlgoKcw72j00.woff") format("woff") ;
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/@/ubuntu/4iCs6KVjbNBYlgoKfA72j00.woff2") format("woff2"),
+	url("/@/ubuntu/4iCs6KVjbNBYlgoKfA72j00.woff") format("woff") ;
+  unicode-range: U+370-3FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/@/ubuntu/4iCs6KVjbNBYlgoKcQ72j00.woff2") format("woff2"),
+	url("/@/ubuntu/4iCs6KVjbNBYlgoKcQ72j00.woff") format("woff") ;
+  unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/@/ubuntu/4iCs6KVjbNBYlgoKfw72.woff2") format("woff2"),
+	url("/@/ubuntu/4iCs6KVjbNBYlgoKfw72.woff") format("woff") ;
+  unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/@/ubuntu/4iCv6KVjbNBYlgoCxCvjvWyNL4U.woff2") format("woff2"),
+	url("/@/ubuntu/4iCv6KVjbNBYlgoCxCvjvWyNL4U.woff") format("woff") ;
+  unicode-range: U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/@/ubuntu/4iCv6KVjbNBYlgoCxCvjtGyNL4U.woff2") format("woff2"),
+	url("/@/ubuntu/4iCv6KVjbNBYlgoCxCvjtGyNL4U.woff") format("woff") ;
+  unicode-range: U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/@/ubuntu/4iCv6KVjbNBYlgoCxCvjvGyNL4U.woff2") format("woff2"),
+	url("/@/ubuntu/4iCv6KVjbNBYlgoCxCvjvGyNL4U.woff") format("woff") ;
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/@/ubuntu/4iCv6KVjbNBYlgoCxCvjs2yNL4U.woff2") format("woff2"),
+	url("/@/ubuntu/4iCv6KVjbNBYlgoCxCvjs2yNL4U.woff") format("woff") ;
+  unicode-range: U+370-3FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/@/ubuntu/4iCv6KVjbNBYlgoCxCvjvmyNL4U.woff2") format("woff2"),
+	url("/@/ubuntu/4iCv6KVjbNBYlgoCxCvjvmyNL4U.woff") format("woff") ;
+  unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/@/ubuntu/4iCv6KVjbNBYlgoCxCvjsGyN.woff2") format("woff2"),
+	url("/@/ubuntu/4iCv6KVjbNBYlgoCxCvjsGyN.woff") format("woff") ;
+  unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
