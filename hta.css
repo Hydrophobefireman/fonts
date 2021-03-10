@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Hta";
+  src: url("/@/hta/hta-Bold.woff2") format("woff2"),
+    url("/@/hta/hta-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hta";
+  src: url("/@/hta/hta.woff2") format("woff2"),
+    url("/@/hta/hta.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
