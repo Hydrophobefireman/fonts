@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "OptD";
+  src: url("/@/OptD/00ad23e7ce67aceff114b7cb748e70e5.woff2") format("woff2"),
+    url("/@/OptD/00ad23e7ce67aceff114b7cb748e70e5.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OptD";
+  src: url("/@/OptD/35d21e612cd703c3ec89e8c0df6f0378.woff2") format("woff2"),
+    url("/@/OptD/35d21e612cd703c3ec89e8c0df6f0378.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OptD";
+  src: url("/@/OptD/94ee4f67c6613b9f497daf0a5e2a5cd5.woff2") format("woff2"),
+    url("/@/OptD/94ee4f67c6613b9f497daf0a5e2a5cd5.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
