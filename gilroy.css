@@ -1,0 +1,179 @@
+@font-face {
+  font-family: "Gilroy";
+  src: url("/@/gilroy/Gilroy-SemiBold.woff2") format("woff2"),
+    url("/@/gilroy/Gilroy-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("/@/gilroy/Gilroy-Thin.woff2") format("woff2"),
+    url("/@/gilroy/Gilroy-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("/@/gilroy/Gilroy-Medium.woff2") format("woff2"),
+    url("/@/gilroy/Gilroy-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy-RegularItalic";
+  src: url("/@/gilroy/Gilroy-RegularItalic.woff2") format("woff2"),
+    url("/@/gilroy/Gilroy-RegularItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("/@/gilroy/Gilroy-UltraLight.woff2") format("woff2"),
+    url("/@/gilroy/Gilroy-UltraLight.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("/@/gilroy/Gilroy-UltraLightItalic.woff2") format("woff2"),
+    url("/@/gilroy/Gilroy-UltraLightItalic.woff") format("woff");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("/@/gilroy/Gilroy-MediumItalic.woff2") format("woff2"),
+    url("/@/gilroy/Gilroy-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("/@/gilroy/Gilroy-Light.woff2") format("woff2"),
+    url("/@/gilroy/Gilroy-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("/@/gilroy/Gilroy-SemiBoldItalic.woff2") format("woff2"),
+    url("/@/gilroy/Gilroy-SemiBoldItalic.woff") format("woff");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("/@/gilroy/Gilroy-Regular.woff2") format("woff2"),
+    url("/@/gilroy/Gilroy-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("/@/gilroy/Gilroy-ThinItalic.woff2") format("woff2"),
+    url("/@/gilroy/Gilroy-ThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("/@/gilroy/Gilroy-LightItalic.woff2") format("woff2"),
+    url("/@/gilroy/Gilroy-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("/@/gilroy/Gilroy-Bold.woff2") format("woff2"),
+    url("/@/gilroy/Gilroy-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("/@/gilroy/Gilroy-Heavy.woff2") format("woff2"),
+    url("/@/gilroy/Gilroy-Heavy.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("/@/gilroy/Gilroy-BlackItalic.woff2") format("woff2"),
+    url("/@/gilroy/Gilroy-BlackItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("/@/gilroy/Gilroy-ExtraBold.woff2") format("woff2"),
+    url("/@/gilroy/Gilroy-ExtraBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("/@/gilroy/Gilroy-Black.woff2") format("woff2"),
+    url("/@/gilroy/Gilroy-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("/@/gilroy/Gilroy-BoldItalic.woff2") format("woff2"),
+    url("/@/gilroy/Gilroy-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("/@/gilroy/Gilroy-HeavyItalic.woff2") format("woff2"),
+    url("/@/gilroy/Gilroy-HeavyItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("/@/gilroy/Gilroy-ExtraBoldItalic.woff2") format("woff2"),
+    url("/@/gilroy/Gilroy-ExtraBoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
