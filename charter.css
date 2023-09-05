@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Charter";
+  src: url("/@/charter/Charter-Bold.woff2") format("woff2"),
+    url("/@/charter/Charter-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Charter";
+  src: url("/@/charter/Charter-Italic.woff2") format("woff2"),
+    url("/@/charter/Charter-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Charter";
+  src: url("/@/charter/Charter.woff2") format("woff2"),
+    url("/@/charter/Charter.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Charter";
+  src: url("/@/charter/Charter-BoldItalic.woff2") format("woff2"),
+    url("/@/charter/Charter-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
