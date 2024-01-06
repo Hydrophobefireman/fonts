@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Gitan";
+  src: url("/@/gitan/GitanLatn-Rg.woff2") format("woff2"),
+    url("/@/gitan/GitanLatn-Rg.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gitan";
+  src: url("/@/gitan/GitanLatn-It.woff2") format("woff2"),
+    url("/@/gitan/GitanLatn-It.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gitan";
+  src: url("/@/gitan/GitanLatn-Bd.woff2") format("woff2"),
+    url("/@/gitan/GitanLatn-Bd.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
