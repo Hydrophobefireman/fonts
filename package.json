@@ -1,0 +1,26 @@
+{
+  "name": "fonts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hydrophobefireman/fonts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hydrophobefireman/fonts/issues"
+  },
+  "homepage": "https://github.com/Hydrophobefireman/fonts#readme",
+  "description": "",
+  "dependencies": {
+    "sst": "4.2.2"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "4.20260307.1"
+  }
+}
